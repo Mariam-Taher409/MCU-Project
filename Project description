@@ -1,0 +1,11 @@
+# MCU-Project
+Designing a Microprocessor that can do the following operations
+• Add, subtract, multiply, divide, AND, OR, XOR
+• The operands will be given as memory locations
+• The output will be dumped in a memory location specified by input
+• Contains a parameterizable memory
+• Both width and size of the memory can be parameterized
+• The size of the memory will be given as the required number of bits
+• Read a value from memory and write it to output
+• Write a value directly to a memory location
+• Gives 1 on an output pin when given an invalid operation code
