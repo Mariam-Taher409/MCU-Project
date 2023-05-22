@@ -1,0 +1,8 @@
+#Creating a testbench for MCU Project
+Deliverables
+• A complete testbench that covers all possible uses for the MCU.
+• Tasks for each operation to increase testing and readability.
+• Functions that are used to calculate the expected correct output to be compared to the DUT
+output.
+• A test scenario that utilizes all the mentioned tasks and functions that goes over all the
+operations and tries them 2-3 different inputs.
